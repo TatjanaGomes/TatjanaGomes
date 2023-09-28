@@ -35,5 +35,19 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
- username=TatjanaGomes&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center">
+</div>
+</br>
+<div align="center">
+  <div align="center">
+  <a href="https://github.com/TatjanaGomes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TatjanaGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
+</br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatjanaGomes&layout=compact&langs_count=7&theme=dark"/>
+</div>
+</div>
+</br>
+ <div align="center">
+
