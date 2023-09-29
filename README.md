@@ -53,7 +53,7 @@
 ![Snake animation](https://github.com/TatjanaGomes/TatjanaGomes/blob/output/github-contribution-grid-snake.svg)
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=TatjanaGomes&repo=TatjanaGonmes&theme=react)](https://github.com/TatjanaGomes/TatjanaGomes)
+
 
 
 
