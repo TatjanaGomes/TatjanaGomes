@@ -40,15 +40,20 @@
 </br>
 <div align="center">
   <div align="center">
+   
   <a href="https://github.com/TatjanaGomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TatjanaGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatjanaGomes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
- <div align="center">
+     <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TatjanaGomes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatjanaGomes&layout=compact&langs_count=7&theme=react" />
 
-![snake gif](https://github.com/TatjanaGomes/TatjanaGomes/blob/output/github-contribution-grid-snake.svg)
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+ <br>
+ <div align="center">
+</div>
+![Snake animation](https://github.com/TatjanaGomes/TatjanaGomes/blob/output/github-contribution-grid-snake.svg)
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=TatjanaGomes&repo=TatjanaGonmes&theme=react)](https://github.com/TatjanaGomes/TatjanaGomes)
+
+
+
